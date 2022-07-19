@@ -1,1 +1,1 @@
-# olympics-schedule
+# olympics-shedule
