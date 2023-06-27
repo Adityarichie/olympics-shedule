@@ -1,0 +1,22 @@
+
+body{
+   background-color: black;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  padding-down: 0;
+  letter-spacing: 5px;
+
+}
+h3{
+  color: white;
+  text-align: center;
+  padding-top: 440px;
+
+}
+
